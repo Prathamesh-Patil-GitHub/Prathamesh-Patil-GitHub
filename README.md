@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathamesh-Patil-GitHub
 - 👀 I’m interested in Solving Problems and Coding Well Structured Softwares and Websites.
-- 🌱 I’m currently learning Diploma Course in Computer Engineering.
+- 🌱 I’m currently completing Diploma Course in Computer Engineering.
 - 💞️ I’m curious and passionate to learn new technologies and open for any collaborations.
 - 📫 How to reach me- Whatsapp - +91-7798410704
 Linkedin - https://www.linkedin.com/in/prathamesh-patil-jalgaon 
