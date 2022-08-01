@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Prathamesh-Patil-GitHub/Prathamesh-Patil-GitHub/blob/main/github%20profile%20display.gif">
+  <img src="https://github.com/Prathamesh-Patil-GitHub/Prathamesh-Patil-GitHub/blob/main/github%20profile%20display.gif" height="450px"/>
 </p>
 
 <p align="center">
