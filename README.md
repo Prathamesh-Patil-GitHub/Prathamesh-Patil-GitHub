@@ -19,12 +19,12 @@
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" height="48px" width="48px"/>
 </a>
 
+   
+<a href="https://stackoverflow.com/users/19594029/prathamesh-patil">
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732248.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
+</a>
+  
 <a href="https://www.instagram.com/pro14.1/">
   <img src="https://cdn-icons-png.flaticon.com/128/1216/1216753.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
 </a>
-
-<a href="tel:+91-7798410704">
-  <img src="https://cdn-icons-png.flaticon.com/128/1077/1077004.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
-</a>
-
 </div>
