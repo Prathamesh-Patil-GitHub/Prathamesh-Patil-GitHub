@@ -23,7 +23,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/1216/1216753.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
 </a>
 
-<a href="tel:7798410704">
+<a href="tel:+91-7798410704">
   <img src="https://cdn-icons-png.flaticon.com/128/1077/1077004.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
 </a>
 
