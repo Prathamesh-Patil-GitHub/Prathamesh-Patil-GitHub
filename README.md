@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Prathamesh-Patil-GitHub/Prathamesh-Patil-GitHub/blob/main/github%20profile%20display.gif">
+</p>
+
 - 👋 Hi, I’m @Prathamesh-Patil-GitHub
 - 👀 I’m interested in Solving Problems and Coding Well Structured Softwares and Websites.
 - 🌱 I’m currently completing Diploma Course in Computer Engineering.
