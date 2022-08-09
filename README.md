@@ -28,3 +28,6 @@
   <img src="https://cdn-icons-png.flaticon.com/128/1216/1216753.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
 </a>
 </div>
+
+## Prathamesh's GitHub Stats:
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Patil-GitHub&show_icons=true&theme=radical)
