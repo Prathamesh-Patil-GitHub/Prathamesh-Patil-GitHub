@@ -29,5 +29,4 @@
 </a>
 </div>
 
-## Prathamesh's GitHub Stats:
 ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Patil-GitHub&show_icons=true&theme=radical)
