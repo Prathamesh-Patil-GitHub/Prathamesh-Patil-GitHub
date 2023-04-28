@@ -5,7 +5,7 @@
 <p align="center">
 👋 Hi, I’m @Prathamesh-Patil-GitHub <br><br>
 👀 I’m interested in Solving Problems and Coding Well Structured Softwares and Websites.<br><br>
-🌱 I’m currently completing Diploma Course in Computer Engineering.<br><br>
+🌱 I’m currently persuing Bachelor's Degree in Information Technology at PCCOE<br><br>
 💞️ I’m curious and passionate to learn new technologies and open for any collaborations.<br><br>
 </p>
 <br>
