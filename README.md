@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/m2papatil">
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" height="48px" width="48px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbzCuxw6_Z1CkCIuosi-txa612oZA-jxKqAeTfqQrPv37ofa61CIawY_-Axu6q-feIV4&usqp=CAU" height="48px" width="48px"/>
 </a>  
 
   
