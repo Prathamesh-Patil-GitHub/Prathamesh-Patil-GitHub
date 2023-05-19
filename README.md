@@ -15,6 +15,15 @@
   <img src="https://cdn-icons-png.flaticon.com/128/408/408703.png?ga=GA1.2.975372899.1659335409" height="48px" width="48px"/>
 </a>
 
+<a href="https://leetcode.com/prathamesh_leetcode/">
+  <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="48px" width="48px"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/m2papatil">
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" height="48px" width="48px"/>
+</a>  
+
+  
 <a href="https://www.hackerrank.com/m2papatil?hr_r=1">
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" height="48px" width="48px"/>
 </a>
