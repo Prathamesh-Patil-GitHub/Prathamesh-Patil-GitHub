@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/m2papatil">
-  <img src="https://cdn.icon-icons.com/icons2/3912/PNG/512/geeksforgeeks_logo_icon_248241.png" height="48px" width="48px"/>
+  <img src="https://icons-for-free.com/download-icon-geeksforgeeks-1324440162314212381_512.png" height="48px" width="48px"/>
 </a>  
 
   
